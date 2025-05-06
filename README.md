@@ -15,10 +15,11 @@
 ---
 
 ## Happ Routing
-Роутинг с AdGuard DNS по многочисленным просьбам:
+[Роутинг с AdGuard DNS](https://raw.githubusercontent.com/fraybyl/simple-ru-routing/refs/heads/master/ADGUARD-ROUTING)
 
-Роутинг с Cloudflare DNS:
+[Роутинг с Cloudflare DNS](https://raw.githubusercontent.com/fraybyl/simple-ru-routing/refs/heads/master/CF-ROUTING)
 
+**Используя AdGuard DNS будьте готовы к тому, что некоторые сайты будут работать некорректно**
 
 ---
 
