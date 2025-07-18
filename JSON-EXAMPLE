@@ -9,19 +9,20 @@
   "DomesticDNSIP": "94.140.15.15",
   "Geoipurl": "https://github.com/frayZV/simple-ru-geoip/releases/latest/download/geoip.dat",
   "Geositeurl": "https://github.com/frayZV/simple-ru-geosite/releases/latest/download/geosite.dat",
-  "LastUpdated": "",
+  "LastUpdated": "4070905200",
   "DnsHosts": {},
   "DirectSites": [
     "geosite:private",
     "geosite:category-ru",
     "geosite:apple",
-    "geosite:google-play"
+    "geosite:twitch"
   ],
   "DirectIp": [
     "geoip:ru",
     "geoip:private"
   ],
   "ProxySites": [
+    "geosite:youtube",
     "geosite:category-ban-ru"
   ],
   "ProxyIp": [],
@@ -29,5 +30,5 @@
   "BlockIp": [],
   "DomainStrategy": "IPIfNonMatch",
   "FakeDNS": "false",
-  "UseChunkFiles": "false"
+  "UseChunkFiles": "true"
 }
